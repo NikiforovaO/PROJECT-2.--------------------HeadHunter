@@ -59,7 +59,7 @@
 :arrow_up:[к оглавлению](https://github.com/NikiforovaO/Project_2_Vacancies_Hh/blob/main/README.md#Оглавление)
 
 
-### Результаты:  
+### Результат:  
 Выполнена практика по написанию SQL-запросов и проанализированы вакансии из HeadHunter, в частности вакансии DS.
 
 :arrow_up:[к оглавлению](https://github.com/NikiforovaO/Project_2_Vacancies_Hh/blob/main/README.md#Оглавление)
