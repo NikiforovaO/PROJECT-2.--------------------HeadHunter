@@ -1,12 +1,12 @@
 # Проект 2. Анализ вакансий из HeadHunter
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/NikiforovaO/Project_2_Head_hunter/blob/main/README.md#Описание-проекта)  
-[2. Какой кейс решаем?](https://github.com/NikiforovaO/Project_2_Head_hunter/blob/main/README.md#Какой-кейс-решаем)  
-[3. Краткая информация о данных](https://github.com/NikiforovaO/Project_2_Head_hunter/blob/main/README.md#Краткая-информация-о-данных)  
-[4. Этапы работы над проектом](https://github.com/NikiforovaO/Project_2_Head_hunter/blob/main/README.md#Этапы-работы-над-проектом)  
-[5. Результат](https://github.com/NikiforovaO/Project_2_Head_hunter/blob/main/README.md#Результат)    
-[6. Выводы](https://github.com/NikiforovaO/Project_2_Head_hunter/blob/main/README.md#Выводы) 
+[1. Описание проекта](https://github.com/NikiforovaO/Project_2_Vacancies_Hh/blob/main/README.md#Описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/NikiforovaO/Project_2_Vacancies_Hh/blob/main/README.md#Какой-кейс-решаем)  
+[3. Краткая информация о данных](https://github.com/NikiforovaO/Project_2_Vacancies_Hh/blob/main/README.md#Краткая-информация-о-данных)  
+[4. Этапы работы над проектом](https://github.com/NikiforovaO/Project_2_Vacancies_Hh/blob/main/README.md#Этапы-работы-над-проектом)  
+[5. Результат](https://github.com/NikiforovaO/Project_2_Vacancies_Hh/blob/main/README.md#Результат)    
+[6. Выводы](https://github.com/NikiforovaO/Project_2_Vacancies_Hh/blob/main/README.md#Выводы) 
 
 ### Описание проекта    
 Имеется кадровое агентство, которое занимается подбором вакансий для IT-специалистов. Необходимо написать проект, с помощью которого можно проанализировать имеющиеся вакансии.
@@ -18,13 +18,13 @@
 - анализ работодателей;
 - предметный анализ.
 
-:arrow_up:[к оглавлению](https://github.com/NikiforovaO/Project_2_Head_hunter/blob/main/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/NikiforovaO/Project_2_Vacancies_Hh/blob/main/README.md#Оглавление)
 
 
 ### Какой кейс решаем?    
 Нужно отработать навыки по написанию SQL-запросов.
 
-:arrow_up:[к оглавлению](https://github.com/NikiforovaO/Project_2_Head_hunter/blob/main/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/NikiforovaO/Project_2_Vacancies_Hh/blob/main/README.md#Оглавление)
 
 
 ### Краткая информация о данных
@@ -37,7 +37,7 @@
 - **INDUSTRIES**. Таблица-справочник вариантов сфер деятельности работодателей.
 - **EMPLOYERS_INDUSTRIES**. Дополнительная таблица, которая существует для организации связи между работодателями и сферами их деятельности. 
 
-:arrow_up:[к оглавлению](https://github.com/NikiforovaO/Project_2_Head_hunter/blob/main/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/NikiforovaO/Project_2_Vacancies_Hh/blob/main/README.md#Оглавление)
 
 
 ### Этапы работы над проектом  
@@ -56,13 +56,13 @@
 **Этап 5. Предметный анализ**
 На данном этапе исследуются требования работодателей к дата-сайентистам
 
-:arrow_up:[к оглавлению](https://github.com/NikiforovaO/Project_2_Head_hunter/blob/main/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/NikiforovaO/Project_2_Vacancies_Hh/blob/main/README.md#Оглавление)
 
 
 ### Результаты:  
 Выполнена практика по написанию SQL-запросов и проанализированы вакансии из HeadHunter, в частности вакансии DS.
 
-:arrow_up:[к оглавлению](https://github.com/NikiforovaO/Project_2_Head_hunter/blob/main/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/NikiforovaO/Project_2_Vacancies_Hh/blob/main/README.md#Оглавление)
 
 
 ### Выводы:  
@@ -74,5 +74,5 @@
 
 Большая часть анализа была направлена на вакансии по DS. Видно, что направление бурно растет,  вакансии есть не только в крупных городах. Интересно было бы теми же запросами проанализировать текущую базу вакансий ХХ, и сравнить, насколько общие по рынку тенденции на охлаждение найма повлияли конкретно на направление DS.
 
-:arrow_up:[к оглавлению](https://github.com/NikiforovaO/Project_2_Head_hunter/blob/main/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/NikiforovaO/Project_2_Vacancies_Hh/blob/main/README.md#Оглавление)
 
